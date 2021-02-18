@@ -38,4 +38,6 @@ Looking ahead, I would like to rerun my machine learning models from my second j
 
 8. Conclusion  
  
-Recommender Systems are very common in present day technology. Items can get suggested in many ways and the best feeling is discovering something new and that you like. 
+Recommender Systems are very common in present day technology. Items can get suggested in many ways and the best feeling is discovering something new and that you like.  
+
+In-depth analysis can be found in Final-Report and simple presentation format analysis can be found in the slide deck
