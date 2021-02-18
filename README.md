@@ -9,25 +9,25 @@ My final undergraduate project was on Google’s Page Rank. Learning how a searc
 Company XYZ is a video streaming platform that lets its members watch TV shows and movies without advertisements on any internet-connected device. Company XYZ wants to build a model based on movie attributes to recommend the right movie.    
 
 1. Data   
--- Kaggle: Data was retrieved from [Link to Kaggle Data Source](https://www.kaggle.com/rounakbanik/the-movies-dataset)     
+  * Kaggle: Data was retrieved from [Link to Kaggle Data Source](https://www.kaggle.com/rounakbanik/the-movies-dataset)     
 
 2. Data Cleaning   
 
 3. EDA  
 
 4. Algorithms & Machine Learning  
--- Random Forest Regressor  
--- Gradient Boosting Regressor  
--- XGBoost Regressor  
+  * Random Forest Regressor  
+  * Gradient Boosting Regressor  
+  * XGBoost Regressor  
 
 5. Method  
--- Collaborative Filtering using Similarity, Correlation, & K-Nearest Neighbors    
--- Content Filtering   
--- Hybrid Technique based of IMDB Formula      
+  * Collaborative Filtering using Similarity, Correlation, & K-Nearest Neighbors    
+  * Content Filtering   
+  * Hybrid Technique based of IMDB Formula      
 
 6. Predictions  
--- Matrix Factorization   
--- Singular Value Decomposition  
+  * Matrix Factorization   
+  * Singular Value Decomposition  
 
 7. Future Improvements  
 
