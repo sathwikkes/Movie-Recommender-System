@@ -26,7 +26,7 @@ Company XYZ is a video streaming platform that lets its members watch TV shows a
 -- Hybrid Technique based of IMDB Formula      
 
 6. Predictions  
--- Matrix Factorization 
+-- Matrix Factorization   
 -- Singular Value Decomposition  
 
 7. Future Improvements  
