@@ -13,9 +13,12 @@ Company XYZ is a video streaming platform that lets its members watch TV shows a
 
 2. Data Cleaning   
 
-3. EDA  
+3. Exploratory Data Analysis    
+Heatmap of Features  
+<img src ="C:/Users/sathw/OneDrive/Pictures/movieproject-images/heatmap-features.jpg">
 
 4. Algorithms & Machine Learning  
+Ran tree based algorithms and hyperparameter tuned the models using RandomizedCV
   - Random Forest Regressor    
   - Gradient Boosting Regressor    
   - XGBoost Regressor    
