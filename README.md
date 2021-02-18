@@ -33,7 +33,9 @@ Company XYZ is a video streaming platform that lets its members watch TV shows a
    - Singular Value Decomposition  
 
 7. Future Improvements  
+
 Looking ahead, I would like to rerun my machine learning models from my second jupyter notebook with the imputed predicted ratings from my recommender portion to see if I would get better results. In addition, I want to deploy an improved recommender system, possibly using deep learning, on my personal website for interactive purposes.     
 
 8. Conclusion  
+ 
 Recommender Systems are very common in present day technology. Items can get suggested in many ways and the best feeling is discovering something new and that you like. 
